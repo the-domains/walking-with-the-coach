@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Subscribe to Walking with the Coach YouTube channel
-dateModified: '2017-01-03T18:01:34.458Z'
-datePublished: '2017-01-03T18:01:35.492Z'
+dateModified: '2017-01-03T18:01:36.005Z'
+datePublished: '2017-01-03T18:01:37.185Z'
 title: Pete Jansen
 author: []
 publisher: {}
