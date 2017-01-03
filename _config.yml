@@ -1,17 +1,17 @@
-typography_spectrum: 0.8356192179489881
+layout_spectrum: 0.1235983416768215
+typography_spectrum: 0.46735506485677375
 color:
-  brandStrength: 0.25414384924806654
-  lightness: 0.286325516179204
-  saturation: 0.34593002684414387
-  rhythmicContrast: 0.9577366630546749
+  brandStrength: 0.874804755182992
+  lightness: 0.7526150103151282
+  saturation: 0.17583647825238805
+  rhythmicContrast: 0.3297724150700292
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
 github: true
-layout_spectrum: 0.28518359223380685
 author:
   name: Peter Jansen
   email: p.jansen@mac.com
