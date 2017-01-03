@@ -20,4 +20,7 @@ name: Walking with the Coach
 title: Walking with the Coach
 content: []
 description: Tools for a happy life
-purpose: []
+purpose:
+  - type: external
+    url: 'https://youtu.be/Zu4l1pHV7KA'
+    label: Subscribe to our YouTube Channel
