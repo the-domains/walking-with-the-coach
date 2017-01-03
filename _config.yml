@@ -1,0 +1,23 @@
+typography_spectrum: 0.8356192179489881
+color:
+  brandStrength: 0.25414384924806654
+  lightness: 0.286325516179204
+  saturation: 0.34593002684414387
+  rhythmicContrast: 0.9577366630546749
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+github: true
+layout_spectrum: 0.28518359223380685
+author:
+  name: Peter Jansen
+  email: p.jansen@mac.com
+logo: null
+name: Walking with the Coach
+title: Walking with the Coach
+content: []
+description: Tools for a happy life
+purpose: []
